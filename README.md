@@ -6,6 +6,22 @@ A creative, interactive portfolio website featuring scroll-driven animations, pa
 
 The portfolio presents professional experience, creative work, side projects, and personal achievements through a visually rich scrolling experience. Each company section uses its own colour palette and interactive illustrations, with animated transitions connecting the different stages of the journey.
 
+## Screenshots
+
+### Homepage
+<img width="1860" height="907" alt="homepage" src="https://github.com/user-attachments/assets/260e8b80-24b0-4961-81bb-33a52bca581a" />
+
+### About Me
+<img width="1842" height="902" alt="about" src="https://github.com/user-attachments/assets/fb5b7b79-3709-4298-b14b-8eb2591ecfca" />
+
+
+### Skills and Technologies
+<img width="1862" height="911" alt="skills" src="https://github.com/user-attachments/assets/c316e8be-9978-4d12-9fda-7a43090b9750" />
+
+
+### Projects
+<img width="1385" height="730" alt="Projects_" src="https://github.com/user-attachments/assets/c8a1b322-4bb7-4bdd-81af-b4a585d1c655" />
+
 ## Features
 
 - **Scroll-Driven Animations** — Smooth, layered transitions between experience sections.
@@ -49,23 +65,3 @@ The project includes automated checks to help validate the website across differ
 - External link validation
 - Screenshot-based visual inspection
 
-## Screenshots
-
-### Homepage
-<img width="1860" height="907" alt="homepage" src="https://github.com/user-attachments/assets/260e8b80-24b0-4961-81bb-33a52bca581a" />
-
-### About Me
-<img width="1842" height="902" alt="about" src="https://github.com/user-attachments/assets/fb5b7b79-3709-4298-b14b-8eb2591ecfca" />
-
-
-### Skills and Technologies
-<img width="1862" height="911" alt="skills" src="https://github.com/user-attachments/assets/c316e8be-9978-4d12-9fda-7a43090b9750" />
-
-
-### Projects
-<img width="1385" height="730" alt="Projects_" src="https://github.com/user-attachments/assets/c8a1b322-4bb7-4bdd-81af-b4a585d1c655" />
-
-
----
-
-*Screenshots showcase the website's layout, skills, and project portfolio.*
